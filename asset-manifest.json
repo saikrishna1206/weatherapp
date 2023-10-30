@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weatherapp/static/css/main.7de010c9.css",
+    "main.js": "/weatherapp/static/js/main.d31ce6ac.js",
+    "static/media/sunset.jpg": "/weatherapp/static/media/sunset.8f43ee7281d4ad627398.jpg",
+    "index.html": "/weatherapp/index.html",
+    "main.7de010c9.css.map": "/weatherapp/static/css/main.7de010c9.css.map",
+    "main.d31ce6ac.js.map": "/weatherapp/static/js/main.d31ce6ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de010c9.css",
+    "static/js/main.d31ce6ac.js"
+  ]
+}
